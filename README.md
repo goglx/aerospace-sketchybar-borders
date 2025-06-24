@@ -1,1 +1,1 @@
-# aerospace-sketchybar
+# aerospace-sketchybar-borders
