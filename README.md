@@ -31,7 +31,7 @@ To use this configuration, you'll need to have Aerospace, Sketchybar, and `borde
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/aerospace-sketchybar-borders.git ~/.config/aerospace-sketchybar-borders
+git clone https://github.com/goglx/aerospace-sketchybar-borders.git ~/.config/aerospace-sketchybar-borders
 
 # Create symbolic links
 ln -s ~/.config/aerospace-sketchybar-borders/.aerospace.toml ~/.aerospace.toml
