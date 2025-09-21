@@ -1,0 +1,13 @@
+#!/bin/bash
+
+source "$HOME/.config/sketchybar/colors.sh"
+
+options=(
+	style=round
+	width=6.0
+	hidpi=off
+	active_color=$MAGENTA
+	inactive_color=0x00000000
+)
+
+borders "${options[@]}"
